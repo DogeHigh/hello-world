@@ -11,4 +11,4 @@ try:
     print(r.request.url)
     print(len(r.text))
 except:
-    print("爬取失败")
+    print("爬取失败baidu")

@@ -19,4 +19,4 @@ try:
     else:
         print("文件已存在")
 except:
-    print("爬取失败")
+    print("爬取失败pic")
